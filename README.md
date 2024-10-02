@@ -13,3 +13,5 @@ This will give the option to clear the current collection of images if desired, 
 ```sh
 ./clearImages
 ```
+
+After running ./timelapse script you will have a directory (images/) of images that can be combined into a timelapse using QuickTime Player or your tool of choice.
