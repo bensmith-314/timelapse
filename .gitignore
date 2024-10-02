@@ -1,0 +1,5 @@
+images/*
+/framenumber.txt
+/isRunning.txt
+/frameNumber.txt
+/.DS_Store
