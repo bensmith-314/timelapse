@@ -3,3 +3,4 @@ images/*
 /isRunning.txt
 /frameNumber.txt
 /.DS_Store
+/newTimelapse.mov
