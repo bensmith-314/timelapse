@@ -14,4 +14,13 @@ This will give the option to clear the current collection of images if desired, 
 ./clearImages
 ```
 
-After running ./timelapse script you will have a directory (images/) of images that can be combined into a timelapse using QuickTime Player or your tool of choice.
+## Preferences
+There are a number of preferences that can be set in the head of timelapse script that you are able to update and change to fit your needs:
+- startMessage1="Starting Timelapse Image Capture in "
+- startMessage2=" seconds"
+- timeToStart=5 # Countdown at beginning
+- imageTiming=1 # Time between screencaptures
+- frameNumber=0 # Current Frame
+- isRunning=""  # Status of Timelapse
+
+After running the timelapse script you will have a directory (images/) of images that can be combined into a timelapse using QuickTime Player or your tool of choice.
